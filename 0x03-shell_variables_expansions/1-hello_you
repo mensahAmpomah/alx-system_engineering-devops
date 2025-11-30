@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "hello $(MyUser)" \n
+echo "hello $(whoami)" \n
