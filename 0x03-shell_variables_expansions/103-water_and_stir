@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$(( ${WATER//[e w a t r]/01234} + ${STIR//[t i . r]/01234} ))" | tr 01234 shtbeolhc 
