@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $(Ampomah)" \n
+echo "hello $(Ampomah)"
